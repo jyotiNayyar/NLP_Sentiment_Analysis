@@ -7,5 +7,7 @@ In this project, we aim to build supervised models for sentiment analysis on Ama
 The project structure is as mentioned below -
 
 Exploratory_Data_Analysis_Code.ipynb : The python file is used to do exploratory analysis on the amazon reviews dataset. The code helps in performing tasks like creating word clouds, exploring length of reviews and review context across sentiments. 
+
 Scikit_learn_modelling.ipynb : The python file is used to train scikit-learn models for sentiment prediction.
+
 Code_Transformer_modelling.ipynb : The python file is used to train BERT for sentiment prediction on our dataset.
